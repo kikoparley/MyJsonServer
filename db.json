@@ -32,7 +32,7 @@
       },
       {
         "id": 17007,
-        "title": "Kid West",
+        "title": "restas",
         "year": "Harry Potter",
         "rating": 6.6,
         "genres": ["Matemática"],
@@ -45,7 +45,7 @@
       },
       {
         "id": 17006,
-        "title": "Born to Be King",
+        "title": "El ambiente",
         "year": "Severus Snape",
         "rating": 6.4,
         "genres": ["Biología"],
@@ -58,7 +58,7 @@
       },
       {
         "id": 17005,
-        "title": "La Grande Illusion",
+        "title": "Compuestos",
         "year": "Minerva McGonagall",
         "rating": 8.1,
         "runtime": 113,
@@ -72,7 +72,7 @@
       },
       {
         "id": 17004,
-        "title": "Possessor",
+        "title": "La gravedad",
         "year": "Neville Longbottom",
         "rating": 6.4,
         "runtime": 102,
