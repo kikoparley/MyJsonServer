@@ -24,9 +24,7 @@
         "title": "Introducción a la resta",
         "year": "El profesor Jirafales",
         "rating": 7.3,
-        "genres": [
-          "Matemáticas"
-        ],
+        "genres": [],
         "summary": "summary: En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
         "description_full": " description full En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
         "synopsis": "synopsis: En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
@@ -39,9 +37,7 @@
         "title": "Hacer grupos de 5",
         "year": "Harry Potter",
         "rating": 6.6,
-        "genres": [
-          "Matemática"
-        ],
+        "genres": [],
         "summary": "summary Aprende cómo sumar números para hacer el número cinco",
         "description_full": "Full Aprende cómo sumar números para hacer el número cinco",
         "synopsis": "synopsis: Aprende cómo sumar números para hacer el número cinco",
