@@ -3,6 +3,7 @@
     {
       "areas": [{
         "nombre": "Matematicas",
+        "id": 27001,
         "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
         "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg",
         "clases": [{
@@ -35,6 +36,7 @@
       },
       {
         "nombre": "Ciencias Naturales y educación ambiental",
+        "id": 27002,
         "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
         "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg",
         "clases": [
@@ -58,7 +60,7 @@
           },
           {
             "clase_name": "Física",
-            "id": 17003,
+            "id": 18003,
             "titulo": "Introducción a vectores y escalares",
             "profesor": "Shirley Mayoly Torres sabogal",
             "duracion": 5.13,
