@@ -1,7 +1,7 @@
 {
   "Areas_detallada": [
     {
-      "areas": {
+      "areas": [{
         "nombre": "Matematicas",
         "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
         "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg",
@@ -25,15 +25,49 @@
                     },
                     {
               "clase_name": "Introducción a la resta",
-              "id_clase": 17002,
+              "id_clase": 17003,
               "titulo": "Introducción a la resta",
               "profesor": "Shirley Mayoly Torres sabogal",
               "duracion": 6.6,
               "descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
               "yt_trailer_code": "Xu75CEE_SXI"
-                    }
-                    ]
-      }    
+                    }]
+      },
+      {
+        "nombre": "Ciencias naturales",
+        "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
+        "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg",
+        "clases": [
+          {
+            "clase_name": "Introducción a la suma",
+            "id_clase": 17001,
+            "titulo": "Introducción a la suma",
+            "profesor": "Shirley Mayoly Torres sabogal",
+            "duracion": 6.6,
+            "descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
+            "yt_trailer_code": "Xu75CEE_SXI"
+          },
+          {
+            "clase_name": "Introducción a la resta",
+            "id_clase": 17002,
+            "titulo": "Introducción a la resta",
+            "profesor": "Shirley Mayoly Torres sabogal",
+            "duracion": 6.6,
+            "descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
+            "yt_trailer_code": "Xu75CEE_SXI"
+          },
+          {
+            "clase_name": "Introducción a la resta",
+            "id_clase": 17003,
+            "titulo": "Introducción a la resta",
+            "profesor": "Shirley Mayoly Torres sabogal",
+            "duracion": 6.6,
+            "descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
+            "yt_trailer_code": "Xu75CEE_SXI"
+          }
+        ]
+      }
+    ]
     }
   ]
 }
