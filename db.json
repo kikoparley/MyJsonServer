@@ -1,23 +1,24 @@
 {
   "data": {
-    "movie_count": 16631,
-    "limit": 40,
-    "page_number": 1,
+    "total_clases": 16631,
     "areas": [
       {
         "id": 17009,
-        "title": "Introducción a la suma",
-        "year": "Albus Dumbledore",
         "rating": 6.6,
         "genres": [
-          "Matemáticas"
+          "Matematicas"
         ],
         "summary": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
-        "description_full": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
+        "descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
         "synopsis": "prende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
-        "yt_trailer_code": "5P1rrkr02dk",
+        "yt_trailer_code": "Xu75CEE_SXI",
+        "materia": "Aritmetica y Geometria",
+        "titulo_clase": "Introducción a la suma",
+        "profesor": "Shirley Mayoly Torres sabogal",
+        "duracion": "6:16",
         "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
         "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg"
+        
       },
       {
         "id": 17008,
