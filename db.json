@@ -3,96 +3,55 @@
     "total_clases": 16631,
     "areas": [
       {
-        "id": 17009,
-        "rating": "4:17",
         "genres": [
           "Matematicas"
         ],
-        "summary": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
-        "descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
-        "synopsis": "prende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
-        "yt_trailer_code": "Xu75CEE_SXI",
         "materia": "Aritmetica y Geometria",
         "titulo_clase": "Introducción a la suma",
+        "clase_name": "Aritmetica y Geometria",
+        "id": 17009,
+        "titulo": "Introducción a la suma",
         "profesor": "Shirley Mayoly Torres sabogal",
         "duracion": "6:16",
-        "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
-        "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg"
-        
-      },
-      {
-        "id": 17008,
-        "title": "Introducción a la resta",
-        "year": "El profesor Jirafales",
-        "rating": 7.3,
-        "genres": ["Ciencias Naturales y educación ambiental"],
-        "summary": "summary: En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
-        "description_full": " description full En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
-        "synopsis": "synopsis: En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
+        "descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
         "yt_trailer_code": "Xu75CEE_SXI",
         "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
-        "medium_cover_image": "https://mx.hola.com/imagenes/cine/201411288726/chespirito-companeros-despedida-twitter/0-34-369/personajes-chespirito--a.jpg"
+        "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg" 
       },
       {
-        "id": 17007,
-        "title": "Hacer grupos de 5",
-        "year": "Harry Potter",
-        "rating": 6.6,
-        "genres": ["Ciencias Naturales y educación ambiental"],
-        "summary": "summary Aprende cómo sumar números para hacer el número cinco",
-        "description_full": "Full Aprende cómo sumar números para hacer el número cinco",
-        "synopsis": "synopsis: Aprende cómo sumar números para hacer el número cinco",
+        "genres": [
+          "Matematicas"
+        ],
+        "materia": "Aritmetica y Geometria",
+        "titulo_clase": "Introducción a la suma",
+        "clase_name": "Aritmetica y Geometria",
+        "id": 17002,
+        "titulo": "Hacer grupos de 5",
+        "profesor": "Shirley Mayoly Torres sabogal",
+        "duracion": 6.6,
+        "descripcion": "Aprende cómo sumar números para hacer el número cinco",
         "yt_trailer_code": "FpOgnh53aA0",
         "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
         "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg"
       },
+
       {
-        "id": 17006,
-        "title": "Llegar hasta 10 al llenar cajas",
-        "year": "Severus Snape",
-        "rating": 6.4,
         "genres": [
-          "Ciencias Naturales y educación ambiental"
+          "Matematicas"
         ],
-        "summary": "Aquí mostramos cómo sumar dos números para hacer 10. Usamos 3 + ___ = 10 y 6 + ___ = 10 como ejemplos.",
-        "description_full": "Aquí mostramos cómo sumar dos números para hacer 10. Usamos 3 + ___ = 10 y 6 + ___ = 10 como ejemplos.",
-        "synopsis": "Aquí mostramos cómo sumar dos números para hacer 10. Usamos 3 + ___ = 10 y 6 + ___ = 10 como ejemplos.",
+        "materia": "Aritmetica y Geometria",          
+        "titulo_clase": "Introducción a la suma",
+        "clase_name": "Aritmetica y Geometria",
+        "id": 17003,
+        "titulo": "Introducción a la resta",
+        "profesor": "Shirley Mayoly Torres sabogal",
+        "duracion": 6.6,
+        "descripcion": "Aquí mostramos cómo sumar dos números para hacer 10. Usamos 3 + ___ = 10 y 6 + ___ = 10 como ejemplos",
         "yt_trailer_code": "nPFR1BmcwPI",
         "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
         "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg"
-      },
-      {
-        "id": 17005,
-        "title": "Compuestos",
-        "year": "Minerva McGonagall",
-        "rating": 8.1,
-        "runtime": 113,
-        "genres": [
-          "Química"
-        ],
-        "summary": "During 1st WW, two French officers are captured. Captain De Boeldieu is an aristocrat while Lieutenant Marechal was a mechanic in civilian life. They meet other prisoners from various backgrounds, as Rosenthal, son of wealthy Jewish bankers. They are separated from Rosenthal before managing to escape. A few months later, they meet again in a fortress commanded by the aristocrat Van Rauffenstein. De Boeldieu strikes up a friendship with him but Marechal and Rosenthal still want to escape...",
-        "description_full": "During 1st WW, two French officers are captured. Captain De Boeldieu is an aristocrat while Lieutenant Marechal was a mechanic in civilian life. They meet other prisoners from various backgrounds, as Rosenthal, son of wealthy Jewish bankers. They are separated from Rosenthal before managing to escape. A few months later, they meet again in a fortress commanded by the aristocrat Van Rauffenstein. De Boeldieu strikes up a friendship with him but Marechal and Rosenthal still want to escape...",
-        "synopsis": "During 1st WW, two French officers are captured. Captain De Boeldieu is an aristocrat while Lieutenant Marechal was a mechanic in civilian life. They meet other prisoners from various backgrounds, as Rosenthal, son of wealthy Jewish bankers. They are separated from Rosenthal before managing to escape. A few months later, they meet again in a fortress commanded by the aristocrat Van Rauffenstein. De Boeldieu strikes up a friendship with him but Marechal and Rosenthal still want to escape...",
-        "yt_trailer_code": "rZkrioz5Zc0",
-        "background_image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/baca7f46-ad5e-4e60-9b8a-b2e96f194cc6/d3jbdgh-6d22e25e-55ad-447f-b0f0-db9f5db252ec.jpg",
-        "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg"
-      },
-      {
-        "id": 17004,
-        "title": "La gravedad",
-        "year": "Neville Longbottom",
-        "rating": 6.4,
-        "runtime": 102,
-        "genres": [
-          "Física"
-        ],
-        "summary": "Tasya Vos is a corporate agent who uses brain-implant technology to inhabit other people's bodies, driving them to commit assassinations for the benefit of the company. While she has a special gift for the work, her experiences on these jobs have caused a dramatic change in her, and in her own life she struggles to suppress violent memories and urges. As her mental strain intensifies, she begins to lose control, and soon she finds herself trapped in the mind of a man whose identity threatens to obliterate her own.",
-        "description_full": "Tasya Vos is a corporate agent who uses brain-implant technology to inhabit other people's bodies, driving them to commit assassinations for the benefit of the company. While she has a special gift for the work, her experiences on these jobs have caused a dramatic change in her, and in her own life she struggles to suppress violent memories and urges. As her mental strain intensifies, she begins to lose control, and soon she finds herself trapped in the mind of a man whose identity threatens to obliterate her own.",
-        "synopsis": "Tasya Vos is a corporate agent who uses brain-implant technology to inhabit other people's bodies, driving them to commit assassinations for the benefit of the company. While she has a special gift for the work, her experiences on these jobs have caused a dramatic change in her, and in her own life she struggles to suppress violent memories and urges. As her mental strain intensifies, she begins to lose control, and soon she finds herself trapped in the mind of a man whose identity threatens to obliterate her own.",
-        "yt_trailer_code": "OiZAbZeIHLI",
-        "background_image": "https://c4.wallpaperflare.com/wallpaper/818/410/415/albert-einstein-formula-math-wallpaper-preview.jpg",
-        "medium_cover_image": "https://mx.hola.com/imagenes/cine/201411288726/chespirito-companeros-despedida-twitter/0-34-369/personajes-chespirito--a.jpg"
       }
+      
     ]
   }
 }
