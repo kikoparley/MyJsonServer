@@ -4,7 +4,7 @@
     "areas": [
       {
         "id": 17009,
-        "rating": 6.6,
+        "rating": "4:17",
         "genres": [
           "Matematicas"
         ],
@@ -25,7 +25,7 @@
         "title": "Introducción a la resta",
         "year": "El profesor Jirafales",
         "rating": 7.3,
-        "genres": [],
+        "genres": ["Ciencias Naturales y educación ambiental"],
         "summary": "summary: En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
         "description_full": " description full En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
         "synopsis": "synopsis: En este video hablamos acerca de qué significa restar. Los ejemplos que se usan son 4-3 y 5-2.",
@@ -38,7 +38,7 @@
         "title": "Hacer grupos de 5",
         "year": "Harry Potter",
         "rating": 6.6,
-        "genres": [],
+        "genres": ["Ciencias Naturales y educación ambiental"],
         "summary": "summary Aprende cómo sumar números para hacer el número cinco",
         "description_full": "Full Aprende cómo sumar números para hacer el número cinco",
         "synopsis": "synopsis: Aprende cómo sumar números para hacer el número cinco",
@@ -52,7 +52,7 @@
         "year": "Severus Snape",
         "rating": 6.4,
         "genres": [
-          "Matemática"
+          "Ciencias Naturales y educación ambiental"
         ],
         "summary": "Aquí mostramos cómo sumar dos números para hacer 10. Usamos 3 + ___ = 10 y 6 + ___ = 10 como ejemplos.",
         "description_full": "Aquí mostramos cómo sumar dos números para hacer 10. Usamos 3 + ___ = 10 y 6 + ___ = 10 como ejemplos.",
