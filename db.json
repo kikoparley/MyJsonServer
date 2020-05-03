@@ -1,71 +1,73 @@
 {
-	"clasesdetallada_7mo": [{
-		"areas": [{
-				"nombre": "Matematicas",
-				"background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
-				"medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg",
-				"clases": [{
-						"clase_name": "Aritmetica y Geometria",
-						"id_clase": 17001,
-						"titulo": "Introducción a la suma",
-						"profesor": "Shirley Mayoly Torres sabogal",
-						"duracion": 6.6,
-						"descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
-						"yt_trailer_code": "Xu75CEE_SXI"
-					},
-					{
-						"clase_name": "Aritmetica y Geometria",
-						"id_clase": 17002,
-						"titulo": "Hacer grupos de 5",
-						"profesor": "Shirley Mayoly Torres sabogal",
-						"duracion": 6.6,
-						"descripcion": "Aprende cómo sumar números para hacer el número cinco",
-						"yt_trailer_code": "FpOgnh53aA0"
-					},
-					{
-						"clase_name": "Aritmetica y Geometria",
-						"id_clase": 17003,
-						"titulo": "Introducción a la resta",
-						"profesor": "Shirley Mayoly Torres sabogal",
-						"duracion": 6.6,
-						"descripcion": "Aquí mostramos cómo sumar dos números para hacer 10. Usamos 3 + ___ = 10 y 6 + ___ = 10 como ejemplos",
-						"yt_trailer_code": "nPFR1BmcwPI"
-					}
-				]
-			},
-			{
-				"nombre": "Ciencias Naturales y educación ambiental",
-				"background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
-				"medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg",
-				"clases": [{
-						"clase_name": "Biología",
-						"id_clase": 18001,
-						"titulo": "Un vistazo a la biología",
-						"profesor": "Tatiana Perez",
-						"duracion": 6.01,
-						"descripcion": "Vista general de la biología, el estudio de la vida.",
-						"yt_trailer_code": "pgk0k_NpLl8"
-					},
-					{
-						"clase_name": "Física",
-						"id_clase": 18002,
-						"titulo": "Introducción a la física",
-						"profesor": "Shirley Mayoly Torres sabogal",
-						"duracion": 11.21,
-						"descripcion": "Un resumen de lo que se trata la física mientras vamos profundizando en futuros videos. Cómo la física se relaciona con las matemáticas, las otras ciencias y el mundo que nos rodea.",
-						"yt_trailer_code": "5Q2bRM2Lj3U"
-					},
-					{
-						"clase_name": "Física",
-						"id_clase": 17003,
-						"titulo": "Introducción a vectores y escalares",
-						"profesor": "Shirley Mayoly Torres sabogal",
-						"duracion": 5.13,
-						"descripcion": "La diferencia entre vectores y escalares. Una introducción a la distancia, el desplazamiento, la rapidez y la velocidad.",
-						"yt_trailer_code": "qBkAMdMq-Z0"
-					}
-				]
-			}
-		]
-	}]
+  "clasesdetallada_7mo": [
+    {
+      "areas": [{
+        "nombre": "Matematicas",
+        "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
+        "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg",
+        "clases": [{
+              "clase_name": "Aritmetica y Geometria",
+              "id": 17001,
+              "titulo": "Introducción a la suma",
+              "profesor": "Shirley Mayoly Torres sabogal",
+              "duracion": 6.6,
+              "descripcion": "Aprende qué significa sumar. Los ejemplos que se usan son 1+1 y 2+3.",
+              "yt_trailer_code": "Xu75CEE_SXI"
+                    },
+                   {
+              "clase_name": "Aritmetica y Geometria",
+              "id": 17002,
+              "titulo": "Hacer grupos de 5",
+              "profesor": "Shirley Mayoly Torres sabogal",
+              "duracion": 6.6,
+              "descripcion": "Aprende cómo sumar números para hacer el número cinco",
+              "yt_trailer_code": "FpOgnh53aA0"
+                    },
+                    {
+              "clase_name": "Aritmetica y Geometria",
+              "id": 17003,
+              "titulo": "Introducción a la resta",
+              "profesor": "Shirley Mayoly Torres sabogal",
+              "duracion": 6.6,
+              "descripcion": "Aquí mostramos cómo sumar dos números para hacer 10. Usamos 3 + ___ = 10 y 6 + ___ = 10 como ejemplos",
+              "yt_trailer_code": "nPFR1BmcwPI"
+                    }]
+      },
+      {
+        "nombre": "Ciencias Naturales y educación ambiental",
+        "background_image": "https://d2m1kqghccc19k.cloudfront.net/wp-content/uploads/2019/09/18154204/mates.jpg",
+        "medium_cover_image": "https://static.diariofemenino.com/media/13501/c/cartas-de-agradecimiento-a-un-profesor-o-profesora-gracias-por-todo-lg.jpg",
+        "clases": [
+          {
+            "clase_name": "Biología",
+            "id": 18001,
+            "titulo": "Un vistazo a la biología",
+            "profesor": "Tatiana Perez",
+            "duracion": 6.01,
+            "descripcion": "Vista general de la biología, el estudio de la vida.",
+            "yt_trailer_code": "pgk0k_NpLl8"
+          },
+          {
+            "clase_name": "Física",
+            "id": 18002,
+            "titulo": "Introducción a la física",
+            "profesor": "Shirley Mayoly Torres sabogal",
+            "duracion": 11.21,
+            "descripcion": "Un resumen de lo que se trata la física mientras vamos profundizando en futuros videos. Cómo la física se relaciona con las matemáticas, las otras ciencias y el mundo que nos rodea.",
+            "yt_trailer_code": "5Q2bRM2Lj3U"
+          },
+          {
+            "clase_name": "Física",
+            "id": 17003,
+            "titulo": "Introducción a vectores y escalares",
+            "profesor": "Shirley Mayoly Torres sabogal",
+            "duracion": 5.13,
+            "descripcion": "La diferencia entre vectores y escalares. Una introducción a la distancia, el desplazamiento, la rapidez y la velocidad.",
+            "yt_trailer_code": "qBkAMdMq-Z0"
+          }
+        ]
+      }
+    ]
+    }
+  ]
 }
